@@ -1,3 +1,7 @@
+
 on main branch !!!!
 welcom to branch 2
 another commit
+
+hello to branch 1
+>>>>>>> new-branch-1
