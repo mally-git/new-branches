@@ -1,3 +1,8 @@
+const d=()=>{
+    alert("dddd")
+}
+
+
 const a =()=>{
-console.log("aaa")
+alert("aaa")
 }
