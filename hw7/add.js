@@ -1,3 +1,3 @@
-const a =()=>{
-console.log("aaa")
+const d=()=>{
+    alert("dddd")
 }
